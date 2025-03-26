@@ -53,8 +53,6 @@ function get_all_toys(PDO $pdo) {
 ?>
 
 
-// Closing PHP tag ?>
-
 <!DOCTYPE>
 <html>
 
